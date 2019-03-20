@@ -43,3 +43,4 @@ parity-clib-examples/cpp/build/
 .vscode
 rls/
 /parity.*
+containers/parity/data
